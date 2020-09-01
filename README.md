@@ -1,5 +1,5 @@
-# Handwritten-Digits-Using-Python-and-Artificial-Neural-Networks
-Handwritten-Digits-Using-Python-and-Artificial-Neural-Networks
+# Handwritten-Digits-Using-Python-and-Neural Network
+Handwritten-Digits-Using-Python-and-Neural-Networks
 
 
 Link:
